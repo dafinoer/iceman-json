@@ -1,45 +1,45 @@
 {
     "cities": [
         {
-            "id": 0,
+            "id": "0",
             "name": "Surabaya"
         },
         {
-            "id": 1,
+            "id": "1",
             "name": "Jakarta"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Yogyakarta"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Malang"
         },
         {
-            "id": 4,
+            "id": "4",
             "name": "Jember"
         },
         {
-            "id":5,
+            "id":"5",
             "name": "Banyuwangi"
         }
     ],
     "popular_city": [
         {
-            "id": 0,
+            "id": "0",
             "name": "Surabaya"
         },
         {
-            "id": 1,
+            "id": "1",
             "name": "Jakarta"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Yogyakarta"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Malang"
         }
     ]
