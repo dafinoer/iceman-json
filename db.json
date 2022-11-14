@@ -1,0 +1,22 @@
+{
+    "cities": {
+        "popular": [
+            {
+                "id": 0,
+                "name": "Surabaya"
+            },
+            {
+                "id": 1,
+                "name": "Jakarta"
+            },
+            {
+                "id": 2,
+                "name": "Yogyakarta"
+            },
+            {
+                "id": 3,
+                "name": "Jember"
+            }
+        ]
+    }
+}
